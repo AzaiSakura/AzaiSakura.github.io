@@ -1,0 +1,58 @@
+{
+  "managedBy": "portfolio-reactbits/pages-v1",
+  "sourceCommit": "a586ec9baecb3ed7ed2fdbdf2f7d721d221f1da7",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "sha256": "d2ac3abd978dab0bf402ba9180d7704daabcfe92c3c155286a7e385e943d114c"
+    },
+    {
+      "path": "assets/decision-BZ8QStNw.webp",
+      "sha256": "cdabfca048dc8a7bff4ff79a2749b987988cd2c7d232e0e902a8e416d94c4d0d"
+    },
+    {
+      "path": "assets/feed-merchant-card-Fi9xifCF.png",
+      "sha256": "e22b391b17eea64c0c715df29d9a1c73458e136ab88623d80d5e183da717eb80"
+    },
+    {
+      "path": "assets/index-5vV9eO1W.js",
+      "sha256": "4c97454e46e9994ccf82abd6117274bced8f5a69cdda4c28b3e2f04d474aa755"
+    },
+    {
+      "path": "assets/index-BMwHk_G-.css",
+      "sha256": "56d6db23854c90fc25b609f6e21b4bace66f827c629f52044c33a15f05986875"
+    },
+    {
+      "path": "assets/marketing-BGND_BUu.webp",
+      "sha256": "3d2e30751b47021f7c18234de808f612742fe22834400b1437a5a8e10155c14e"
+    },
+    {
+      "path": "assets/merchant-product-card-Oqa700jQ.png",
+      "sha256": "caf240a531000a3cf254cc3981875d733553d70b6401f13130a2a79d8cd15d49"
+    },
+    {
+      "path": "assets/physics-Dw1fAIKz.webp",
+      "sha256": "998041957c5f58d0a0f853fb88d116b64a4aad99bf4020cfdb58abf9985bb655"
+    },
+    {
+      "path": "assets/profile_pic-eCEGo4Kk.webp",
+      "sha256": "46980916766b793db279f971e248dd03eb93be09f4256852b86f4dd5f68b8f69"
+    },
+    {
+      "path": "index.html",
+      "sha256": "d2ac3abd978dab0bf402ba9180d7704daabcfe92c3c155286a7e385e943d114c"
+    },
+    {
+      "path": "project/1/index.html",
+      "sha256": "d2ac3abd978dab0bf402ba9180d7704daabcfe92c3c155286a7e385e943d114c"
+    },
+    {
+      "path": "project/aime/index.html",
+      "sha256": "d2ac3abd978dab0bf402ba9180d7704daabcfe92c3c155286a7e385e943d114c"
+    }
+  ]
+}
